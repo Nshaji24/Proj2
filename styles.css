@@ -1,0 +1,63 @@
+.LoginForm{
+    text-align: center;
+    padding: 15px;
+    line-height: 2;
+}
+.Question{
+    text-align: center;
+    padding: 15px;
+    line-height: 2;
+}
+.Registration{
+    text-align: center;
+    padding: 15px;
+    line-height: 2;
+}
+.quest{
+    text-align: center;
+    padding: 15px;
+    line-height: 2;
+}
+.regis{
+    text-align: center;
+    padding: 15px;
+    line-height: 2;
+}
+.BTN{
+    background-color: burlywood;
+
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    font-size: 18px;
+}
+h1{
+    font-size: xx-large;
+}
+body{
+   background-color: antiquewhite;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border: chocolate;
+    border-style: solid;
+
+
+}
+#nav_menu{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+
+}
+#nav_menu >li{
+  display:inline-block;
+    margin-right: 12px;
+
+}
+.testing{
+    text-align: center;
+}
+
+
